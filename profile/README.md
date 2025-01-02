@@ -2,8 +2,6 @@
 
 Welcome to the **IPTV App Organization**! This organization manages the tools, packages, and resources needed to develop and maintain an advanced IPTV application.
 
----
-
 ## **Core Packages**
 
 ### **M3UKit**
@@ -24,13 +22,9 @@ Welcome to the **IPTV App Organization**! This organization manages the tools, p
 ### **UIOnboarding**
 - A SwiftUI tool for creating interactive onboarding screens.  
 
----
-
 ## **Contributing**
 
 Contributions are always welcome! Feel free to fork any package, make improvements, and submit a pull request.  
-
----
 
 ## **Contact**
 
